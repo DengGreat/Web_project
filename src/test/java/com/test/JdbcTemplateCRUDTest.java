@@ -1,5 +1,6 @@
 package com.test;
 
+
 import com.domain.Account;
 import org.junit.Test;
 import org.junit.runner.RunWith;
